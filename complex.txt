@@ -1,0 +1,5 @@
+import cmath
+z=complex(input())
+radius,angle=cmath.polar(z)
+print(radius)
+print(angle)
